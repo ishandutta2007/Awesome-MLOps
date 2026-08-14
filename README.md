@@ -2,7 +2,7 @@
 
 Markdown
 Copy
-# Top MLOps Platforms Ecosystem
+## Top MLOps Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Experiment Tracking, Model Registry, Pipeline Orchestration, Model Deployment, Monitoring & End-to-End ML Lifecycle Management*
 **Last updated: August 2026**
